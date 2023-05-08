@@ -1,6 +1,6 @@
 # Newsly---A-Short-News-App
 
-Newsly is a short News App that displays latest news from the web
+Newsly is a short News App that displays latest news from the web.
 
 Technologies Used:-
 
